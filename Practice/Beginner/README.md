@@ -11,23 +11,15 @@
 
 |  Name  |Purpose | 
 | ------------- | ------------- |
-| Adobe Dreamweaver  | Code Editor  |
-| Google Chrome   | Developer Tools, Troubleshooting  |
-| Other browsers, platforms | Ensure compatibility and Responsiveness |
+| Netbeans  | Code Editor  |
+| Google Chrome   | Submission and Forums  |
 
 # Languages:
 
 |  Name  |Purpose | 
 | ------------- | ------------- |
-| HTML  | Markup and Structure  |
-| CSS   | Styling  |
-| Javascript  | Functionality |
+| Java  | Coding  |
+| C   | Coding for some other problem sets  |
 
-# Frameworks:
-
-|  Name  |Purpose | 
-| ------------- | ------------- |
-| jQuery  | UI enhancement  |
-| Bootstrap  | UI enhancement, Responsiveness  |
 
 
